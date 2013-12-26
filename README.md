@@ -1,5 +1,4 @@
-
-# grunt-develop [![Build Status](https://secure.travis-ci.org/edwardhotchkiss/grunt-develop.png)](http://travis-ci.org/edwardhotchkiss/grunt-develop)
+# grunt-develop [![Build Status](https://secure.travis-ci.org/floatdrop/grunt-develop.png)](http://travis-ci.org/floatdrop/grunt-develop)
 
 > Run a Node.js application for development, with support for auto-reload.
 
